@@ -6,17 +6,26 @@ h1 {
   text-transform: uppercase;
 }
 
+/* Subtitulo Del inicio */
 h2 {
   text-align: center;
   background-color: rgb(93, 93, 207);
 }
 
+/* imagenes del inicio */
 img {
   max-height: 200px;
 }
 
+/* Parrafos del inicio */
 p {
   font-weight: 999;
+}
+
+/* Tabla del inicio */
+table {
+  background-color: violet;
+  color: white;
 }
 
 /*# sourceMappingURL=style.css.map */

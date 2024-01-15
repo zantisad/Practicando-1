@@ -1,14 +1,24 @@
+/* Subtitulo Del inicio */
 h2 {
     text-align: center;
     background-color: map-get($colores , secundario );
 }
 
+/* imagenes del inicio */
 img {
     max-height: 200px;
 }
 
+/* Parrafos del inicio */
 p {
     font-weight: 999;
 }
 
+
+/* Tabla del inicio */
+table {
+    background-color: map-get($colores, extra );
+    color: white;
+    font-family: map-get($fuentes, principal );
+}
 
