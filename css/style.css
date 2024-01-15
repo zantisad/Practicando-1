@@ -1,0 +1,22 @@
+h1 {
+  background-color: rgb(255, 109, 133);
+  color: white;
+  padding: 3px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+h2 {
+  text-align: center;
+  background-color: rgb(93, 93, 207);
+}
+
+img {
+  max-height: 200px;
+}
+
+p {
+  font-weight: 999;
+}
+
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,7 @@
+h1 {
+    background-color: map-get( $colores , "principal" );
+    color: white;    
+    padding: 3px;
+    text-align: center;
+    text-transform: uppercase;
+}
